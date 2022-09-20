@@ -1,0 +1,34 @@
+Atalhos para o VSCODE
+
+Como auto alinhar codigo no VSCode?
+ALT + SHIFT + F
+
+
+Como usar quebra de Linha em HTML?
+</br>
+
+como dar um TAB ou montar Paragrafo?
+<p></p>
+
+Definir Tamanho de imagem na taga <img>
+height="100" width="150"
+
+
+
+Tag	Descrição
+<b>			Define texto em negrito
+<big>		Define texto grande
+<em>		Define texto enfatizado;
+<i>	    	Define texto em itálico
+<small>		Define texto pequeno
+<strong>	Define texto forte
+<sub>		Define texto subescrito
+<sup>		Define texto superescrito
+<ins>		Define texto inserido
+<del>		Define texto cancelado
+
+
+Como criar um botao em  HTML?
+<a href="https://wipsites.com.br"><button>Meu Botão</button></a>
+
+Observe que temos a tag <button></button>
