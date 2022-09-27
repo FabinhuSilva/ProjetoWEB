@@ -1,0 +1,20 @@
+body {
+    background-color: #191970;
+    color:#F5FFFA;
+}
+
+#banner{
+width:100% ;
+}
+
+p{
+text-align: center;
+}
+
+#missao{
+    font-size: 50px;
+}
+
+em strong{
+    color:#FF0000;
+}
